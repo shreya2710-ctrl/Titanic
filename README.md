@@ -6,32 +6,32 @@ The dataset of the notebook can be downloaded from [here](https://drive.google.c
 Steps:
 
 
-Importing Libraries
+a) Importing Libraries
 
 
-Loading Dataset
+b) Loading Dataset
 
 
-Data Exploration
+c) Data Exploration
 
 
-Data Wrangling
+d) Data Wrangling
 
 
-Visualization Of Missing Data
+e) Visualization Of Missing Data
 
 
-Exploratory Data Analysis
+f) Exploratory Data Analysis
 
 
-Continuous Numerical Variables
+g) Continuous Numerical Variables
 
 
-Categorical Variables
+h) Categorical Variables
 
 
-Handelling Outliers
+i) Handelling Outliers
 
 
-Random Forest Method-Machine Learning
+j) Random Forest Method-Machine Learning
 
